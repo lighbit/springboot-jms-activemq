@@ -1,5 +1,9 @@
 package com.zulkarnaen.jms.model;
-
+/**
+ * 
+ * @author zulkarnaen
+ *
+ */
 public class JmsModel {
 
 	private String nama;

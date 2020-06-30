@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "spring.datasource.validation-query",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.validation-query'"
+  },
+  {
+    "name": "spring.datasource.test-while-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.test-while-idle'"
+  },
+  {
+    "name": "spring.datasource.time-between-eviction-runs-millis",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.time-between-eviction-runs-millis'"
+  },
+  {
+    "name": "spring.datasource.min-evictable-idle-time-millis",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.min-evictable-idle-time-millis'"
+  },
+  {
+    "name": "spring.jpa.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.dialect'"
+  },
+  {
+    "name": "spring.jpa.hibernate.naming_strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.naming_strategy'"
+  },
+  {
+    "name": "-Dlogging.config",
+    "type": "java.lang.String",
+    "description": "A description for '-Dlogging.config'"
+  },
+  {
+    "name": "spring.jms.isPubSubDomain",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jms.isPubSubDomain'"
+  },
+  {
+    "name": "spring.jms.isPubSubDomain",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jms.isPubSubDomain'"
+  },
+  {
+    "name": "spring.jms.isPubSubDomain",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jms.isPubSubDomain'"
+  },
+  {
+    "name": "spring.jms.isPubSubDomain",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jms.isPubSubDomain'"
+  }
+]}

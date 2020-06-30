@@ -6,7 +6,11 @@ import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Service;
 
 import com.zulkarnaen.jms.model.JmsModel;
-
+/**
+ * 
+ * @author zulkarnaen
+ *
+ */
 @Service
 public class JmsServiceImpl {
 
